@@ -34,4 +34,4 @@ Start the server
 - Book Details Page
 - Add a Book (authentication user)
 - Edit (Must be an authentic user and can only edit his own books, not any other publisher's books.)
-- Delet (Must be an authentic user and can only delete his own books, not any other publisher's books.)
+- Delete (Must be an authentic user and can only delete his own books, not any other publisher's books.)

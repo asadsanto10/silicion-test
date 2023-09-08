@@ -20,6 +20,11 @@ Install dependencies
 ```bash
   npm or yarn install
 ```
+Copy .env variable
+
+```bash
+  copy .env.dev to .env
+```
 
 Start the server
 

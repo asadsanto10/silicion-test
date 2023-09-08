@@ -35,7 +35,7 @@ Start the server
 ## Features
 - Login
 - Display All Books
-- Books Search Functionality and pagination
+- Books Search Functionality and pagination (server side)
 - Book Details Page
 - Add a Book (authentication user)
 - Edit (Must be an authentic user and can only edit his own books, not any other publisher's books.)
